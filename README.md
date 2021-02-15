@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
 
 <!--
 **dangpetrcech/dangpetrcech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
